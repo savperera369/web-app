@@ -93,7 +93,7 @@ export default function Home() {
                     </button>
                 </div>
             </div>
-            <div className="flex flex-col w-full items-center justify-center gap-y-4 p-4">
+            <div className="flex flex-col w-full items-center justify-center gap-y-4 p-4 mt-2">
                 {filteredData?.length ? (
                     tableView ? (
                         <CurrencyTable currencyList={filteredData} />

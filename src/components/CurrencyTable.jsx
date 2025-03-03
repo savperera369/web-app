@@ -55,7 +55,7 @@ const CurrencyTable = ({ currencyList }) => {
         <div className="w-full p-2">
             { currencyList?.length ? (
                 <table className="w-full border border-gray-500">
-                    <thead className="bg-gray-900 text-white text-lg">
+                    <thead className="bg-gray-700 text-white text-lg">
                     {table.getHeaderGroups().map(headerGroup => (
                         <tr key={headerGroup.id}>
                             {headerGroup.headers.map(header => (
