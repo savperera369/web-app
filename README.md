@@ -1,3 +1,11 @@
+## Setup Instructions
+
+1) Clone this repository
+2) Run npm install in the root directory
+3) Create a .env file in the root of the project
+4) Add this COINCAP_API_KEY='80dfec98-d773-4fa2-ba8c-b9331a8731f6'
+5) npm run dev to start the application
+   
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
