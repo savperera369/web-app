@@ -8,7 +8,7 @@
 
 ## Setup Instruction for docs app
 
-1) Clone this repository
+1) Clone the docs repository or download as zip
 2) Run yarn in the root directory
 3) Run yarn start in the root directory
    
